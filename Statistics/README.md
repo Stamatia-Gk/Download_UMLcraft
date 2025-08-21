@@ -1,1 +1,1 @@
-
+- Q_Results contain the data collected from the questionnaires with certain diagrams derived from it.
