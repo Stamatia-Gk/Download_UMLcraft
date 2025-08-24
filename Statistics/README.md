@@ -1,2 +1,2 @@
-- Q_Results contain the data collected from the questionnaires with certain diagrams derived from it.
+- Q_Results contains the data collected from the questionnaires with certain diagrams derived from it.
 - interview_results_en.txt contains the translated version (in english) of the resutls of the interview that the students underwent after the procedure (also exist in Q_Results in Greek).
