@@ -1,1 +1,4 @@
-
+- Q_Results contains the data collected from the questionnaires with certain diagrams derived from it.
+- Questionnaire_UMLcraft_final_pre_en contains all the questions including task and interview questions for UMLcraft provided to the students in phase 1.
+- Questionnaire_UMLcraft_final_post_en contains all the questions from the 1st quiz with modifications (row of appearance in questions and answers, rephrases were possible) provided to the students in phase 2.
+- interview_results_en.txt contains the translated version (in english) of the some of the resutls of the interview that the students underwent after the procedure (also exist in Q_Results in Greek).
